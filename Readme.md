@@ -2,8 +2,6 @@
 
 --------------------------------
 
-![image](https://github.com/mztacat/Fuel-Contract-Deployment/assets/31314340/f9fb26d5-3d76-4349-855a-3fba14179514)
-
 
 # Deploying a Contract on Fuel Network 
 ![image](https://github.com/mztacat/Fuel-Contract-Deployment/assets/31314340/79098f5b-4d5c-48a5-9eda-8b39b1cccde6)
@@ -11,6 +9,7 @@
 
 
 ##Install Dependencies  ---- 
+![image](https://github.com/mztacat/Fuel-Contract-Deployment/assets/31314340/f9fb26d5-3d76-4349-855a-3fba14179514)
 
 ```
 sudo apt update
