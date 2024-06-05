@@ -71,6 +71,7 @@ source /root/.bashrc
 fuelup toolchain install latest
 fuelup self update
 fuelup update && fuelup default latest
+
 ```
 
 
